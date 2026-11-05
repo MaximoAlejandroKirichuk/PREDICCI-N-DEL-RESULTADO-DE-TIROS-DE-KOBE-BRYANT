@@ -1,0 +1,6 @@
+# Lista blanca: se ignora todo por defecto y se habilita solo lo que se publica.
+*
+
+!.gitignore
+!README.md
+!kobe_red_neuronal.ipynb
