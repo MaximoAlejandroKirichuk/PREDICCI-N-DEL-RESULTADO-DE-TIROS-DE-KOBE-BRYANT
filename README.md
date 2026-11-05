@@ -5,6 +5,8 @@ a partir de la posición en la cancha, el tipo de jugada y el contexto del parti
 
 Trabajo práctico de la materia Inteligencia Artificial.
 
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MaximoAlejandroKirichuk/PREDICCI-N-DEL-RESULTADO-DE-TIROS-DE-KOBE-BRYANT/blob/main/kobe_red_neuronal.ipynb)
+
 ## El problema
 
 Clasificación binaria sobre 25.697 tiros de Kobe Bryant. Dadas las características de un
